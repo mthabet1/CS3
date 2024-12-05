@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This repository contains the code, data, and documentation to classify musical genres based solely on lyrical data using an Random Forest classification model. The goal is to achieve an accuracy of 75% or greater in genre classification using the “English Music Lyrics from Five Music Genres” dataset from Kaggle. The analysis will focus on feature extraction and model training to improve classification performance.
+This repository contains the code, data, and documentation to classify musical genres based solely on lyrical data using an Random Forest classification model. The goal is to achieve an accuracy of 60% or greater in genre classification using the “English Music Lyrics from Five Music Genres” dataset from Kaggle. The analysis will focus on feature extraction and model training to improve classification performance.
 
 ## Repository Structure
 
