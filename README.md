@@ -59,13 +59,10 @@ The dataset used for this project is the "English Music Lyrics from Five Music G
    ```
 3. Download and prepare the data:
 
-   - Go to the `Data.md` and follow the steps to download our data
-   - Place the dataset in the `DATA/` folder
+   - Go to the `DATA.md` and follow the steps to download our data
+   - Place the dataset in the `Materials/` folder
 
 4. Run the analysis:
 
-   - Go to `/SCRIPTS/analysis.ipynb`, follow the comments in the cells and run each cell to perform our analysis!
+   - Go to `/Materials/ANALYSIS.ipynb`, follow the comments in the cells and run each cell to perform our analysis!
 
-5. Review the results:
-   - The model’s accuracy, precision, recall, and other performance metrics will be saved in the [models_results.md](OUTPUTS/models_results.md) file
-   - Visualizations will be saved in the `OUTPUTS/plots/` directory.
