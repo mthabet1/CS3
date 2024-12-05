@@ -9,12 +9,11 @@ This repository contains the code, data, and documentation to classify musical g
 
 ## Repository Structure
 
-- **README.md**: Provides an overview and instructions for reproducing the results.
+- **Hook.pdf**: Motivation for project
+- **Rubric.pdf**: Outlining of deliverables and rubric
 - **LICENSE.md**: License for the project (MIT License).
 - **requirements.txt**: Python packages needed for the project
-- **SCRIPTS/**: Contains the Python scripts for data processing, feature engineering, and model training.
-- **DATA/**: Contains the dataset used for training and testing.
-- **OUTPUT/**: Stores the results, including figures and tables from the analysis.
+- **Materials/**: Contains the data as well as Python scripts for data processing, feature engineering, and model training
 
 ```bash
 .
