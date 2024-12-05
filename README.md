@@ -1,13 +1,12 @@
 # Classification Model for Music Lyrics
 
-**Group Leader**: Malek Thabet  
-**Group Members**: Zaid Fada, Chris Woods  
+**Case Study Owner**: Malek Thabet 
 **Course**: DS 4002  
-**Date**: 27 September 2024
+**Date**: 09 December 2024
 
 ## Project Overview
 
-This repository contains the code, data, and documentation for our project to classify musical genres based solely on lyrical data using an Random Forest classification model. Our goal is to achieve an accuracy of 75% or greater in genre classification using the “English Music Lyrics from Five Music Genres” dataset from Kaggle. The analysis will focus on feature extraction and model training to improve classification performance.
+This repository contains the code, data, and documentation to classify musical genres based solely on lyrical data using an Random Forest classification model. The goal is to achieve an accuracy of 75% or greater in genre classification using the “English Music Lyrics from Five Music Genres” dataset from Kaggle. The analysis will focus on feature extraction and model training to improve classification performance.
 
 ## Repository Structure
 
