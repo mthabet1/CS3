@@ -18,17 +18,15 @@ This repository contains the code, data, and documentation to classify musical g
 
 ```bash
 .
+├── Hook.pdf                 # Deliverables and motivation for the case
+├── Rubric.pdf               # How to measure success of the work
 ├── README.md                # Project overview and instructions
 ├── LICENSE.md               # License information (MIT)
 ├── requirements.txt         # Python packages needed for the project
-├── SCRIPTS/
+├── Materials/
 │   ├── exploratoryplots.ipynb  # Prelim data discobvery
 │   └── analysis.ipynb       # Detailed step-by-step analysis performed
-├── DATA/
 │   └── Data.md              # Steps to download dataset
-├── OUTPUT/
-│   ├── model_results.md    # Accuracy, confusion matrix, and classification report
-│   └── plots/              # Figures generated during prelim data discovery
 ```
 
 ## Software and Platform
